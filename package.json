@@ -1,0 +1,16 @@
+{
+  "name": "classwork-1-sept5",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "prettier": "prettier --write \"src/**/*.js\" --config \".prettierrc.json"
+  },
+  "devDependencies": {
+    "prettier": "3.0.3",
+    "vite": "^4.4.5"
+  }
+}
